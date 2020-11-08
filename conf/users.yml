@@ -1,0 +1,9 @@
+User(admin):
+  username:   admin
+  password:   admin
+  email:      admin@gmail.com
+
+User(praneel):
+  username:   praneel
+  password:   praneel
+  email:      praneelgavali@gmail.com
